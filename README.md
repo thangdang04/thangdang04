@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## WELCOME TO MY PAGE 👋👋👋
+I'm Thang, an International Economics student at Foreign Trade University Ho Chi Minh City Campus. I'm interested in manipulating data so I have done some projects that help me know more about data analytics.
 <!--
 **thangdang04/thangdang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
